@@ -5,6 +5,10 @@
  * @internal Nota para desarrollo
  */
 class Documentacion {
+
+    // Este es un pequeño cambio para probar Git
+
+
     /**
      * Suma dos números enteros
      * @param int $a Primer valor
